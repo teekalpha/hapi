@@ -10,8 +10,6 @@ hub/src/web/embeddedAssets.generated.ts
 hub/src/generated/
 
 # Downloaded tools (fetched at build time)
-hub/tools/tunwg/tunwg-*
-hub/tools/tunwg/*.exe
 shared/tools/tunwg/tunwg-*
 shared/tools/tunwg/*.exe
 
