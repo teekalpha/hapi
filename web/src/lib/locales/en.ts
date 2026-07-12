@@ -8,6 +8,9 @@ export default {
   'loading.files': 'Loading files…',
   'loading.messages': 'Loading messages…',
   'loading.machines': 'Loading machines…',
+  'message.copy': 'Copy',
+  'message.copied': 'Copied',
+  'message.info': 'Message details',
 
   // Login / Auth
   'login.title': 'HAPI',

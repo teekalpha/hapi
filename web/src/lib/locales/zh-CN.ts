@@ -8,6 +8,9 @@ export default {
   'loading.files': '加载文件…',
   'loading.messages': '加载消息…',
   'loading.machines': '加载机器…',
+  'message.copy': '复制',
+  'message.copied': '已复制',
+  'message.info': '消息详情',
 
   // Login / Auth
   'login.title': 'HAPI',
